@@ -1,0 +1,17 @@
+{
+    "name": "f-block",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watchAll",
+        "dev-test": "nodemon dev-test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "crypto-js": "^4.1.1",
+        "jest": "^27.3.1",
+        "nodemon": "^2.0.15"
+    }
+}
